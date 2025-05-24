@@ -34,7 +34,7 @@ export function HandwritingAnimation() {
         >
           <span className="bg-clip-text text-transparent 
                            bg-gradient-to-r from-teal-600 to-green-600">
-            Hardware Developer
+            Software Developer
           </span>
         </motion.p>
       </div>
