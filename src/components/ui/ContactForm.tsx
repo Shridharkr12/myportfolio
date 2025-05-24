@@ -24,7 +24,7 @@ export function ContactForm() {
     setErrorMessage('');
 
     try {
-      const response = await fetch('https://formspree.io/f/mvggvyar', {
+      const response = await fetch('https://formspree.io/f/xzzrlzjp', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
