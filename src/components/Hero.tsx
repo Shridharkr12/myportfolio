@@ -8,10 +8,10 @@ import { ActionButtons } from './hero/ActionButtons';
 
 export function Hero() {
   const roles = [
-    "IT & Website Developer",
+    "Website Developer",
     "AI Enthusiast",
     "Club President",
-    "Blockchain technology",
+    "Blockchain technology learner",
     "Innovator & Problem Solver",
     "Lifelong Learner",
   ];
